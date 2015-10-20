@@ -22,19 +22,7 @@ $(document).ready(function() {
     $('.destiny').text(destinyInput);
     $('.ability').text(abilityInput);
 
-
-
     $('.story').removeClass("story");
-
-
-
-
-
-
-
-
-
-
 
   event.preventDefault();
   });

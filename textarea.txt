@@ -1,8 +1,0 @@
-<div class="form-group">
-  <label for="journey">Journey Title:</label>
-    <textarea name="journey" id="journey" rows="1" cols="75">
-    </textarea>
-  </div>
-
-
-    var journeyInput = $('textarea#journey').val();

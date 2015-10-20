@@ -12,18 +12,16 @@ h1 {
   z-index: -1;
 }
 
-
-
-
-
 .story {
   display: none;
 }
+
 .writing {
   margin: 10px auto;
   width: 80%;
   padding: 25px;
 }
+
 .writing p {
   text-indent: 50px;
 }
@@ -39,7 +37,6 @@ h1 {
   width: 451px;
 }
 
-
 .hero {
   font-family: 'head';
   font-size: 1.5em;
@@ -48,22 +45,28 @@ h1 {
   -webkit-fill-color: #FFFFFF;
   text-shadow: 1px 0px 20px yellow;
 }
+
 .character1 {
   font-weight: bold;
 }
+
 .character2 {
   font-weight: bold;
 }
+
 .journey {
   color: orange;
 }
+
 .quest {
   
 }
+
 .destiny {
   font-style: italic;
   color: blue;
 }
+
 .ability {
   text-decoration: underline;
 }
